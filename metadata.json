@@ -1,0 +1,6 @@
+{
+  "name": "FitTrack – BMI & Weight Tracker",
+  "description": "A modern, responsive BMI calculator, daily weight tracker with Chart.js progress analytics, ideal weight estimator, and personalized health guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
